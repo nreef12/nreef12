@@ -1,5 +1,10 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm reef</h1>
+
+![GitHub followers](https://img.shields.io/github/followers/nreef12?style=social)
+
 I'm a teen coder who's currently learning front-end web development, and very interested in game development. I'm also interested in photography and graphic design.
+
+## About me
 
 ### Tools
 My main computer is a MacBook Air M1 2020 13" (base model)
