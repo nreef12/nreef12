@@ -12,6 +12,23 @@ My main computer is a MacBook Air M1 2020 13" (base model)
 - Shell: zsh with Oh My Zsh
 - Terminal: macOS Terminal
 
+### Skills
+#### Beginner
+- JavaScript
+
+#### Intermediate
+- Git
+
+#### Advanced
+- HTML
+- CSS
+
+#### Expert
+
+<br>
+
+> Revamp coming soon!
+
 <!--
 **nreef12/nreef12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
