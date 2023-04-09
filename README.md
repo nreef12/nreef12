@@ -25,6 +25,9 @@ My main computer is a MacBook Air M1 2020 13" (base model)
 
 #### Expert
 
+### Contact
+Have a question? Contact me on Discord at Reef#4540 or on Matrix [@tappyturtle:matrix.org](https://matrix.to/#/@tappyturtle:matrix.org)
+
 <br>
 
 > Revamp coming soon!
