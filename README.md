@@ -12,19 +12,6 @@ My main computer is a MacBook Air M1 2020 13" (base model)
 - Shell: zsh with Oh My Zsh
 - Terminal: macOS Terminal
 
-### Skills
-#### Beginner
-- JavaScript
-
-#### Intermediate
-- Git
-
-#### Advanced
-- HTML
-- CSS
-
-#### Expert
-
 ### Contact
 Have a question? Contact me on Discord at Reef#4540 or on Matrix [@tappyturtle:matrix.org](https://matrix.to/#/@tappyturtle:matrix.org)
 
