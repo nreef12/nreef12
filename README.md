@@ -1,14 +1,12 @@
 ### Hi there 👋
-I'm a teen coder who's currently learning front-end web development, and very interested in game development. I'm also interested in photography and graphic design.
+I'm a teen coder who's currently learning web development, and interested in game development, UI and graphic design, and photography.
 
 ### Tools
 My main computer is a MacBook Air M1 2020 13" (base model)
 
-- VCS: Git, GitHub Desktop
-- Code editing: Atom
-  - Website testing: Firefox Developer Edition
-  - Markdown: Atom, MacDown, or Bear
-- Design: Inkscape for vector, Figma for prototyping
+- OS: macOS and Arch Linux
+- Code editing: Visual Studio Code
+- Design: Inkscape
 - Shell: zsh with Oh My Zsh
 - Terminal: macOS Terminal
 
