@@ -10,7 +10,7 @@ I'm a teen programmer who's currently learning web development, and interested i
 
 ### Tools n' technologies
 
-- OS: macOS and Arch Linux
+- OS: macOS and Fedora Linux
 - Code editing: Visual Studio Code
 - Design: Inkscape
 - Shell: zsh with Oh My Zsh
